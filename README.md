@@ -8,7 +8,7 @@ A conversational chatbot built using **Gradio** and powered by **Gemini API** th
 -  Validates name, age (must be 18+), and email format.
 -  Saves bookings to an Excel file with timestamp.
 -  Supports restarting the conversation anytime.
-- 🖥 Clean web-based UI using Gradio.
+-  Clean web-based UI using Gradio.
 -  Handles invalid inputs with retries and user-friendly messages.
 
 ## Preview
